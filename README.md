@@ -8,6 +8,8 @@ In this simple tutorial, you will see an interactive dashboard visualise the tot
 on gender and age. The data gained, unfortunately, contains lots of missing value or NaN for the columns 'sex' and 'age'.
 Therefore, this dashboard visualisation only shows you about 5.7% of the real dataset.
 
+[![alt text](https://github.com/ayaar25/dash-tutorial/blob/master/pictures/dash-covid.gif "Dash Tutorial")]
+
 ## Environment Set Up
 Before you get the dashboard running, you need to first have python3 installed in your laptop. You can check this 
 [link](https://realpython.com/installing-python/) for its installation.
@@ -38,3 +40,4 @@ Debugger PIN: 775-976-572
 ```
 
 Click on http://127.0.0.1:8050/ or type it on your browser and voila, you have your dashboard running.
+
